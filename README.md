@@ -117,6 +117,6 @@ The sensors detect objects crossing or blocking their beams; they do not count p
 
 ## Developed By
 
-Name - ATIFA JYOTI 
+Name - ATIFA JYOTI ///
 University IoT/Embedded Systems Project
 
